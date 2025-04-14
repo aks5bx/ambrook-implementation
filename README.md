@@ -21,7 +21,6 @@ I also installed required packages as needed.
 I have the following file structure:
 
 ```
-| ambrook (virtual environment)
 | app_dir
 └─── a-button
     | node_modules
@@ -44,7 +43,8 @@ I have the following file structure:
 
 ## Result
 
-The app is saved and included in this repo as `AmbrookButton.html`. 
+The app is saved as a `.html` file and included in this repo as `AmbrookButton.html`. Note that downloading this file will not include any responsiveness in the app. Specifically, the buttons will not function when clicked on (this is just the saved html). 
 
-A static image of the app is displayed below:
-![Ambrook Button App](AmbrookApp.png)
+Here is the app in use:
+
+![Ambrook Button App](AmbrookApp.gif)
